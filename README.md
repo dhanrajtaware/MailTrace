@@ -112,22 +112,14 @@ The platform enables analysts to perform email intelligence gathering, header an
 ## Screenshots
 
 <p align="center">
-  <img src="assets/startup.png" width="850">
+  <img src="welcome.png" width="850">
   <br><br>
 
-  <img src="assets/dashboard.png" width="850">
+  <img src="banner.png" width="850">
   <br><br>
 
-  <img src="assets/email_intelligence.png" width="850">
+  <img src="menu.png" width="850">
   <br><br>
-
-  <img src="assets/evidence_viewer.png" width="850">
-  <br><br>
-
-  <img src="assets/timeline.png" width="850">
-  <br><br>
-
-  <img src="assets/investigation_summary.png" width="850">
 </p>
 
 ---
