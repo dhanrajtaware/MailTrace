@@ -129,7 +129,7 @@ The platform enables analysts to perform email intelligence gathering, header an
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MailTrace.git
+git clone https://github.com/dhanrajtaware/MailTrace.git
 
 cd MailTrace
 ```
